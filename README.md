@@ -179,5 +179,3 @@ mysql -u root mysql -p $DB_ROOT_PASSWD <<< "CREATE DATABASE projecte17;"
 * **Javier Úbeda** - *Initial work* - [PurpleBooth](https://github.com/javuberay)
 
 * **Tomàs Silva** - *Initial work* - [PurpleBooth](https://github.com/tsilvacerro)
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
